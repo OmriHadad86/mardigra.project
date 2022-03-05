@@ -1,0 +1,42 @@
+.navbar {
+  background-color: #8cbf3f;
+  letter-spacing: 3px;
+  font-family: "Pattaya";
+  font-size: 30px;
+  font-weight: 700;
+  color: #f2f2f2;
+}
+body {
+  justify-content: center;
+  text-align: center;
+  margin: 0;
+  padding: 0;
+}
+.nav-link:hover {
+  text-shadow: 0 5px 7px #f2cc0f;
+}
+.carousel-item {
+  height: 100vh;
+  min-height: 300px;
+  background: no-repeat scroll center scroll;
+  -webkit-background-size: cover;
+  background-size: contain;
+}
+
+.Thanks {
+  text-align: center;
+  background-color: #292305;
+  .ht2 {
+    font-size: 3rem;
+    font-family: "Pattaya";
+    font-weight: 700;
+    text-shadow: 0 5px 7px #8cbf3f;
+    color: #9453a6;
+  }
+}
+
+.card-text {
+  font-family: "Roboto", sans-serif;
+  font-weight: 700;
+  color: #9453a6;
+}

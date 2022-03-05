@@ -1,0 +1,140 @@
+<div class="container-fluid py-2" style="background-color: #8cbf3f; text-align: center;">
+  <h2> Thanks for our sponsors !!!</h2>
+</div>
+
+
+
+
+
+  <div class="sponsersInfo col-3">
+    <div class="card shadow p-3 " style="height: 25rem;width: 18vw;">
+      <a class="cards-sponsors"
+        href="https://www.marriott.com/en-us/hotels/msyis-sheraton-new-orleans-hotel/overview/"><img src="img/si.jpeg"
+          class="card-img-top" alt="si logo"></a>
+      <div class="card-body">
+        <p class="card-text">Brimming with style and grounded in our community, Sheraton New Orleans Hotel is the
+          perfect home base for your downtown
+          escape.
+        </p>
+      </div>
+    </div>
+  </div>
+
+
+  <div class="sponsersInfo col-3">
+    <div class="ccard shadow p-3" style="height: 25rem;width: 18vw;">
+      <a class="cards-sponsors" href="https://acehotel.com/new-orleans/"><img src="img/ah-logo.jpg" class="card-img-top"
+          alt="ace hotel logo"></a>
+      <div class="card-body">
+        <p class="card-text">Get in the groove. Our Lobby Bar has everything you need for a parade day pit stop...
+          content.
+        </p>
+      </div>
+    </div>
+  </div>
+
+
+  <div class="sponsersInfo col-3">
+    <div class="ccard shadow p-3" style="height: 25rem; width: 18vw;">
+
+      <a class="cards-sponsors" href="https://www.ritzcarlton.com/en/hotels/new-orleans"><img
+          src="img/the_ritz_logo.jpeg" class="card-img-top" alt="ace hotel logo"></a>
+      <div class="card-body">
+        <p class="card-text">Rich in history and personality, New Orleans is unlike any other US city. Honoring its
+          spirit and elegance, The
+          Ritz-Carlton, New Orleans invites visitors to its French Quarter retreat, set within a 1908 Beaux Arts
+          building.
+        </p>
+      </div>
+    </div>
+  </div>
+</article>
+
+
+
+
+
+
+
+
+<article class="sponsers2 pt-5 container-fluid justify-content-center row">
+  <div class="sponsersInfo col-3">
+    <div class="ccard shadow p-3" style="height: 25rem;width: 18vw" ;>
+      <a class="cards-sponsors" href="https://www.premiumparking.com/P402"><img src="img/park-logo.jpg"
+          class="card-img-top" alt="park402"></a>
+      <div class="card-body">
+        <p class="card-text">Reserve Parking in Advance<br>
+          Sign Up for a Subscription<br>
+          Pay to Park Now<br>
+          Pay to Park Now (Star Space)<br>
+        </p>
+      </div>
+    </div>
+  </div>
+  <div class="sponsersInfo col-3">
+    <div class="ccard shadow p-3" style="height: 25rem;width: 18vw;">
+      <a class="cards-sponsors" href="https://lcm.org/"><img src="img/lcm-logo-.jpeg" class="card-img-top"
+          alt="Lcm logo"></a>
+      <div class="card-body">
+        <p class="card-text">When you make a child’s potential visible, wonderful things happen. So we created a place
+          where kids use play, shared
+          exploration, and conversation to connect with the people and world around them.
+        </p>
+      </div>
+    </div>
+  </div>
+  <div class="sponsersInfo col-3">
+    <div class="card shadow p-3" style="height: 25rem;width: 18vw;">
+      <a class="cards-sponsors" href="http://www.museumofdeath.net/"><img src="img/mod-hdr3.jpg" class="card-img-top"
+          alt="DM logo"></a>
+      <div class="card-body">
+        <p class="card-text">The museum displays a wide variety of art and artifacts surrounding the subject of death.
+          Baby coffins are in one
+          section, letters and artwork from various serial killers in another...
+        </p>
+      </div>
+    </div>
+  </div>
+  <div class="sponsersInfo col-3">
+    <div class="card shadow p-3" style="height: 25rem;width: 18vw;">
+      <a class="cards-sponsors" href="https://thehauntedmuseum.com/"><img src="img/HM.jpg" class="card-img-top"
+          alt="hu-muz logo"></a>
+      <div class="card-body">
+        <p class="card-text">Among the hundreds of terrifying possessions, museum-goers can even peek inside the VW
+          death van in which Dr. Jack
+          Kevorkian ended the suffering of terminally ...
+        </p>
+      </div>
+    </div>
+  </div>
+
+
+
+
+
+</article><!-- cards-sponsors -->
+<section class="container-fluid py-5 row" style="text-align:center;">
+  <div class="col-3" style="justify-content: center;">
+    <div class="card p-2">
+      <a class="cards-sponsors" href="https://walk-ons.com/">
+        <img src="img/wu.logo (2).jpeg" class="card-img-top pb-2" alt="..."></a>
+
+      <p class="card-text sm-none">Some quick example text to build on the card title and make up the bulk of the card's
+        content.
+      </p>
+    </div>
+
+  </div>
+  <div class="col-3">Equality</div>
+  <div class="col-3">Equality</div>
+  <div class="col-3">Equality</div>
+</section>
+
+
+
+
+
+
+
+
+

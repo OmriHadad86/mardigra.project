@@ -1,0 +1,84 @@
+:root {
+  --primary: #9453a6;
+  --secondary: #8cbf3f;
+  --success: #f2cc0f;
+  --light: #f2f2f2;
+  --dark: #0d0d0d;
+}
+
+.navbar {
+  background-color: #8cbf3f;
+  letter-spacing: 3px;
+  font-family: "Pattaya";
+  font-size: 30px;
+  font-weight: 700;
+  color: #f2f2f2;
+}
+
+body {
+  -webkit-box-pack: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  text-align: center;
+  margin: 0;
+  padding: 0;
+}
+
+.nav-link:hover {
+  text-shadow: 0 5px 7px #f2cc0f;
+}
+
+.carousel-item {
+  height: 100vh;
+  min-height: 300px;
+  background: no-repeat scroll center scroll;
+  background-size: contain;
+}
+
+h5 {
+  color: #f2f2f2;
+  font-family: "Pattaya";
+  text-shadow: 0 5px 10px #0d0d0d;
+}
+p {
+  color: #f2cc0f;
+  font-size: 25px;
+  font-weight: 700;
+  font-family: "Pattaya";
+}
+
+.card-text {
+  font-family: "Roboto", sans-serif;
+  font-weight: 700;
+  color: #9453a6;
+}
+#cardx {
+  align-items: center;
+  text-align: center;
+  background-color: #8cbf3f;
+  color: #9453a6;
+  font-family: "Roboto", sans-serif;
+  border-radius: 15px;
+  box-shadow: 0 6px 10px #9453a6;
+}
+.card-text-x {
+  color: #f2f2f2;
+  font-family: "Henny Penny";
+  font-size: 1em;
+}
+#cardxb {
+  font-family: "Henny Penny";
+}
+.card-title {
+  width: 40vw;
+  font-family: "Henny Penny";
+  text-shadow: 0 4px 5px #f2f2f2;
+  background-color: #f2cc0f;
+  color: #9453a6;
+  padding: 5px;
+  margin-top: 15px;
+  border-radius: 10px;
+  font-weight: 700;
+}
+
+/*# sourceMappingURL=mardi.css.map */
