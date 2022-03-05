@@ -18,4 +18,67 @@
 .nav-link:hover {
   text-shadow: 0 5px 7px #f2cc0f;
 }
+.nav-link:hover {
+  text-shadow: 0 2px 2px #f2cc0f;
+}
+.infotexti {
+  font-family: "Pattaya";
+  letter-spacing: 1px;
+}
+
+.mayortexti {
+  font-family: "Pattaya";
+  letter-spacing: 1px;
+}
+.infohade {
+  width: 35vw;
+  font-family: "Henny Penny";
+
+  text-shadow: 0 4px 5px #f2f2f2;
+  background-color: #8cbf3f;
+  color: #9453a6;
+  padding: 10px;
+  border-radius: 5px;
+  font-weight: 700;
+}
+.mayortitle {
+  width: 35vw;
+  font-family: "Henny Penny";
+
+  text-shadow: 0 4px 5px #f2f2f2;
+  background-color: #8cbf3f;
+  color: #9453a6;
+  padding: 10px;
+  border-radius: 5px;
+  font-weight: 700;
+}
+.info {
+  text-align: center;
+}
+.infotitle {
+  background-color: #f2cc0f;
+  color: #9453a6;
+  font-family: "Henny Penny";
+  font-weight: 700;
+  text-shadow: 0 4px 5px #f2f2f2;
+  border-radius: 5px;
+}
+.eventstitle {
+  background-color: #8cbf3f;
+  color: #9453a6;
+  font-family: "Henny Penny";
+  font-weight: 700;
+  text-shadow: 0 4px 5px #f2f2f2;
+  border-radius: 5px;
+}
+.card-body {
+  font-family: "Henny Penny";
+  font-weight: 300;
+}
+.card-title {
+  font-family: "Pattaya";
+  font-weight: 700;
+  color: #9453a6;
+}
+
 /*# sourceMappingURL=about.css.map */
